@@ -188,7 +188,7 @@ export default function SignInContainer() {
               label="아이디 저장"
             />
 
-            <LoginButtonST type="submit" color="primary" variant="contained">
+            <LoginButtonST type="submit" color="primary" variant="outlined">
               로그인
             </LoginButtonST>
           </FormContainerBoxST>
