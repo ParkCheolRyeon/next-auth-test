@@ -1,3 +1,9 @@
+import SignInContainer from "./components/SignIn";
+
 export default function Home() {
-  return <main>auth test</main>;
+  return (
+    <main>
+      <SignInContainer />
+    </main>
+  );
 }
